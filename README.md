@@ -1,10 +1,30 @@
 <!-- Header -->
 <h1 align="center">Hi, everyone I'm Jeramell and welcome to my profile!  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> </h1>
+
+<!-- Coder gif at the top -->
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/754f7f48-57b4-4b8f-9054-b21ef7803698" width="350px" alt="Coder gif"/>
+</div>
+
+<!-- About Me -->
+<h2 align="center">⚡ Who Am I?</h2>
+
+<p align="center">
+  🧠 Engineer by mindset, builder by passion — shipping code that actually works.<br><br>
+  🌍 Repping <strong>Dominican Republic</strong> 🇩🇴<br>
+  🌐 Check out what I've built: <a href="https://Jeramellworks.netlify.app" target="_blank"><strong>Jeramellworks.netlify.app</strong></a><br>
+  📬 Drop me a line: <a href="mailto:Jeramellfeliz@gmail.com"><strong>Jeramellfeliz@gmail.com</strong></a><br>
+  🏆 Crafting <strong>live data platforms for global sports</strong><br>
+  🤖 Leveraging <strong>AI</strong> to build next-level user experiences<br>
+  🚀 Chasing <strong>emerging tech</strong> — always one step ahead
+</p>
+
 <!-- Snake -->
 <p align="center">
   <img src="https://github.com/KingJeramell/KingJeramell/blob/output/github-contribution-grid-snake.svg?" alt="Snake Game"/>
 </p>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 <!-- Typing SVG -->
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
@@ -81,3 +101,8 @@
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<!-- Mario gif at the bottom -->
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/54dc1f7a-f327-43ab-ae9c-58c7421eee39" width="100%" alt="Mario gif"/>
+</div>
