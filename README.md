@@ -1,5 +1,5 @@
 <!-- Header -->
-<h1 align="center">Hi, I'm Jeramell <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> everyone and welcome to my profile!</h1>
+<h1 align="center">Hi, everyone I'm Jeramell and welcome to my profile!  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> </h1>
 
 <!-- Snake -->
 <p align="center">
