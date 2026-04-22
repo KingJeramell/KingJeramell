@@ -1,20 +1,16 @@
 <!-- Header -->
 <h1 align="center">Hi, everyone I'm Jeramell and welcome to my profile!  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> </h1>
-
 <!-- Snake -->
 <p align="center">
   <img src="https://github.com/KingJeramell/KingJeramell/blob/output/github-contribution-grid-snake.svg?" alt="Snake Game"/>
 </p>
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
 <!-- Typing SVG -->
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Software+Engineer;Working+Progress...;Future+Plans+Loading...🚀"/>
   </a>
 </p>
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ---
@@ -24,7 +20,6 @@
 <p align="center">
 
 - **Languages**:
-
   ![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
   ![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
   ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -36,7 +31,6 @@
 <br>
 
 - **Software and Tools**:
-
   ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
   ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
   ![Google](https://img.shields.io/badge/google-%234285F4.svg?style=for-the-badge&logo=google&logoColor=white)
@@ -45,6 +39,22 @@
   ![Cursor](https://img.shields.io/badge/Cursor-000000.svg?style=for-the-badge&logo=cursor&logoColor=white)
   ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
   ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+
+<br>
+
+- **AI Tools**:
+  ![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
+  ![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white)
+  ![DeepSeek](https://img.shields.io/badge/DeepSeek-%230062FF.svg?style=for-the-badge&logo=deepseek&logoColor=white)
+  ![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-8957E5?style=for-the-badge&logo=github-copilot&logoColor=white)
+  ![Google Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=google%20gemini&logoColor=white)
+
+<br>
+
+- **Browsers**:
+  ![Google Chrome](https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white)
+  ![Brave](https://img.shields.io/badge/Brave-FB542B?style=for-the-badge&logo=Brave&logoColor=white)
+  ![Edge](https://img.shields.io/badge/Edge-0078D7?style=for-the-badge&logo=Microsoft-edge&logoColor=white)
 
 </p>
 
@@ -56,21 +66,17 @@
 
 <div align='left'>
 <ul>
-
 <li>
 <a href="https://linkedin.com/in/jeramell-feliz" target="_blank">
 <img src="https://img.shields.io/badge/linkedin:  Jeramell Feliz-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
 </a>
 </li>
-
 <br>
-
 <li>
 <a href="mailto:Jeramellfeliz@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/gmail:  Jeramellfeliz-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" style="margin-bottom: 5px;"/>
 </a>
 </li>
-
 </ul>
 </div>
 
