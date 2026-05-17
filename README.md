@@ -14,7 +14,6 @@
   🌍 Repping <strong>Dominican Republic</strong> 🇩🇴<br>
   🌐 Check out what I've built: <a href="https://Jeramellworks.netlify.app" target="_blank"><strong>Jeramellworks.netlify.app</strong></a><br>
   📬 Drop me a line: <a href="mailto:Jeramellfeliz@gmail.com"><strong>Jeramellfeliz@gmail.com</strong></a><br>
-  🏆 Crafting <strong>live data platforms for global sports</strong><br>
   🤖 Leveraging <strong>AI</strong> to build next-level user experiences<br>
   🚀 Chasing <strong>emerging tech</strong> — always one step ahead
 </p>
